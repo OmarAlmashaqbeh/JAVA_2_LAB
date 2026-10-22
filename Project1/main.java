@@ -1,6 +1,6 @@
 package Project1;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Rectangle r1 = new Rectangle();
         System.out.println("r1 width: " + r1.getWidth());

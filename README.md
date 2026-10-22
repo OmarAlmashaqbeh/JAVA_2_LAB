@@ -125,7 +125,6 @@
 
   * Apache NetBeans
   * Visual Studio Code
-  * IntelliJ IDEA
 
 ---
 
@@ -133,22 +132,12 @@
 
 * **Programming Language:** Java
 * **GUI Framework:** Java Swing
-* **IDE:** VS Code / Apache NetBeans
+* **IDE:** Apache NetBeans / VS Code
 * **Concepts:** OOP, Inheritance, Polymorphism, Interfaces, Event Handling, File Handling
 
 ---
 
-## ⚠️ ملاحظة مهمة
-
-> تأكد من اختيار الفرع الصحيح في GitHub لعرض جميع الملفات.
->
-> إذا كانت الحلول موجودة في فرع `master`، فانتقل من `main` إلى `master` لعرضها.
->
-> يمكنك الوصول إلى المستودع من هنا:
->
-> 👉 [JAVA_2_LAB](https://github.com/OmarAlmashaqbeh/JAVA_2_LAB)
-
----
+##
 
 ## 📎 ملاحظات
 

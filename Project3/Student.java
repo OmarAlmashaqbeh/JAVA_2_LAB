@@ -7,18 +7,18 @@ public class Student {
     private int id;
     private static int count = 0;
 
+    public Student(String name) {
+        this.name = name;
+        count++;
+        id = count;
+    }
+
     public Student() {
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter the student's name: ");
         this.name = input.nextLine();
         count++;
         this.id = count;
-    }
-
-    public Student(String name) {
-        this.name = name;
-        count++;
-        id = count;
     }
 
     public void setName(String name) {

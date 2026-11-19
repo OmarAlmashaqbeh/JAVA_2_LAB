@@ -40,7 +40,7 @@ public class Account {
         return dateCreated;
     }
 
-    void withdraw(double amount) {
+    public void withdraw(double amount) {
         if (amount < 0) {
             System.out.println("Withdrawal amount must be positive.");
             return;
@@ -52,7 +52,7 @@ public class Account {
         }
     }
 
-    void deposit(double amount) {
+    public void deposit(double amount) {
         if (amount < 0) {
             System.out.println("Deposit amount must be positive.");
             return;
